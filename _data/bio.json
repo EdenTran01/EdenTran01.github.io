@@ -8,7 +8,7 @@
     "website": "https://github.com/EdenTran01",
     "summary": "I am studying for a B.A. in Mangaement Information Systems at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
-      "address": "2439 Kini Pl",
+      "address": "",
       "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -27,8 +27,8 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "edonnoodles",
+        "url": "http://twitter.com/edonnoodles"
       },
       {
         "network": "instagram",
@@ -39,54 +39,52 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Video games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Valorant",
+        "Demon Slayer",
+        "Tekken"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Traveling",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Editing Videos",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Word",
+        "Excel",
+        "Powerpoint"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Adobe",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Premiere Pro",
+        "Photoshop",
+        "After Effects",
+        "Acrobat",
+        "Illustrator"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Management Information Systems (expected Spring, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2020",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,15 +93,14 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "null",
+      "position": "null",
+      "website": "null",
+      "startDate": "null",
+      "endDate": "null",
+      "summary": "null",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
       ]
     },
     {
