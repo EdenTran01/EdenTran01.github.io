@@ -3,13 +3,13 @@
     "name": "Eden Tran",
     "label": "Student",
     "picture": "https://edentran01.github.io/images/Picture.JPG",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "edent@hawaii.edu",
+    "phone": "808-392-4633",
+    "website": "https://github.com/EdenTran01",
+    "summary": "I am studying for a B.A. in Mangaement Information Systems at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "2439 Kini Pl",
+      "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "EdenTra01",
+        "url": "http://github.com/EdenTran01"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "EdenTran",
+        "url": "http://linkedin.com/in/eden-tran-b5a2131b6/"
       },
       {
         "network": "twitter",
@@ -32,8 +32,8 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "edon.tran",
+        "url": "http://instagram.com/edon.tran"
       }
     ]
   },
