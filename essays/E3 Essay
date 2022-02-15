@@ -1,10 +1,12 @@
 ---
 layout: essay
 type: essay
-title: My BrowserHistory WOD Experience
+title: Preparing for WODs
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-25
+date: 2022-02-14
 labels:
   - WODS
   - Learning
 ---
+The WOD that I had completed was Invoice1, we are using what we learned about eexpressions and operators from the screencast, readings, and lab to properly code this WOD. Invoice1 is about create a sales  recipt that includes the five different products that were given to us. Additionally, we learning how to code properly in which we do not hard code the values we want inputted but code it in whichthe variable values can be changed to different numbers.
+<a href =https://dport96.github.io/ITM352/morea/060.expressions-operators/experience-preparing-for-WOD.html>More Information</a>
