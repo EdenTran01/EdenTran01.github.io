@@ -1,0 +1,52 @@
+---
+layout: essay
+type: essay
+title: Checkpoint Assignment #3
+# All dates must be YYYY-MM-DD format!
+date: 2022-11-29
+labels:
+  - MIS
+  - WODs
+---
+
+<h1> Show what each page will look like. The pages do not have to be “functional” but the design should clear. </h1>
+<p> 
+Click here to view a PowerPoint <a href="..."> screencast </a> presentation of my site 
+</p>
+<br>
+
+<h1> Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart. </h1>
+<p>
+The design of my shopping cart will be on a seperate page where the user can view and edit the products. On each of the product pages, there will be a add to cart button that the user can press to add their items to the cart. On the carts page, there will be a button to either remove the item completely or add/remove quantities
+</p>
+<br>
+
+<h1> Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session. </h1>
+<p>
+The way that I am using session to manage my shooping cart is that when a user adds items to their cart, the product type of the items will be added to the session data as an object key. The value for each product type key will be the quantities for each product in an array format. An example of this would be like if a user adds products from multiple product types, this will be the format of item data in the session data:
+{ Console: [ 1, 0, 1 ], Controller: [ 2, 1, 0 ] }
+</p>
+<br>
+
+<h1> How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address? </h1>
+<p>
+When the purchase button is pressed, the server will check if the user has a cookie or not, if they do not, then the user will be redirected to the login page to sign in or will have to register for an account, while they are there the cookie will give the user a certain amount of time to log in/register, if not completed then they will be sent back to the index page. Now if the user does have a cookie and is logged in, they will be redirected to the invoice. A security concern with this though is that cookies can be accessed and modified. 
+</p>
+<br>
+
+<h1> Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary) </h1>
+<p> 
+Once you successfully login, I would provide the user with their username and email in the invoice message. Additionally, if a user is logged in, I would have the page show the logout button instead of the login on the top right of the page instead with the username i.e.  [Logout {users_name}], if they ever want to logout you can logout using that button
+</p>
+
+<br>
+
+<h1> If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when? </h1>
+<p> I have no partner </p>
+
+<br>
+
+<h1> How are you approaching Assignment 3 differently than Assignment 2? </h1>
+<p>
+For Assignment 3, there is not a lot of code to do when comapring it to Assignment 2, but there is a lot more in thinking about how exactly you want your website to be displayed. That is why I am going to work on Assignment 3 bit by bit rather than cramming all of the work at once like I did with Assignment 2.
+</p>
